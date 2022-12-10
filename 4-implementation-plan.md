@@ -1,6 +1,6 @@
 
 
----
+--
 - breakdown of work already done
 - work to be done in time remaining on the project
   
