@@ -1,6 +1,4 @@
 
 
---
-- detail how you expect to measure the success of your project
-- in particular, document tests required to ensure deliverables function correctly
-- ...as well as, where appropriate, experiments required to evaluate the work with respect to other products / research results
+- regardless of +ve or -vve results, success defined by robust inferences of the initial research question - requiring data extraction, analysis and interpretation.
+- however, with postitive results, it is possible to validate findings, although unlikely to be achievable in the timescale of the project - either by reaching out to clinician for methylation data, or functional assay to practically observe impact.

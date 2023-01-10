@@ -1,5 +1,7 @@
-
-
---
-
-- details of the progress you've made thus far (long descriptions are for the final report)
+- still at data collection stage
+- defined genomic regions
+- extracted variants for all participants 
+	- number participants, number variants
+	- distributions of frequency
+- experimented with allele thresholds
+- adding functional annotation
