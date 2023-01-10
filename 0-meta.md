@@ -51,6 +51,11 @@ ideas
 - provide a realistic estimate of when each should be completed (if all goes well)
 - detail fallback positions in case any stage of the development goes wrong
 - keep track and revise initial estimates as time goes on to ensure finish in time
+
+### risk register
+- identify main risks associated with achieving your objectives and deliverables
+- label these risks in terms of likelihood and impact
+- detail your mitigation strategy
 ### evaluation
 - detail how you expect to measure the success of your project
 - in particular, document tests required to ensure deliverables function correctly

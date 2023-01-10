@@ -1,8 +1,10 @@
 ### data and security
 
-- data used
+- data used[[5-risk-register]]
 	- GEL research environment
 		- secure, centralised
+			- localised analyses on platform
+			- can't export any identifiable data
 		- unable to take data
 	- nature of that data (sensitive, confidential)
 	- what data exists on there
@@ -34,7 +36,9 @@
 - align with set of ethical principles of general life / research?
 - project approval
 	- written application stating the purpose of the project
+	- admitted into GeCIP
 	- approval by patient panel
+- published on genomics England (RE GECIP)
 
 ### impact
 - patient
@@ -44,6 +48,8 @@
 - society
 	- increased understanding of disease biology
 	- in case of negative result - ruling out a source of potential explanation
+- research community
+	- publish
 
 ### questions
 - ethical question around disclosure to patient recruited for a separate rare disease, who actually has this>

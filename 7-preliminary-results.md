@@ -5,3 +5,8 @@
 	- distributions of frequency
 - experimented with allele thresholds
 - adding functional annotation
+
+- learnt R, bash scripting skills for specific tools, batch job submission
+- navigating new environment
+- time taken for access
+- notoriously complex system - gel
