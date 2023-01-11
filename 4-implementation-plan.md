@@ -1,0 +1,1 @@
+A gantt chart detailing the planned implementation is included in figure \ref{fig:implementation}, including background preparation, project definition and planning, initial project stages, results-led investigation and project delivery.

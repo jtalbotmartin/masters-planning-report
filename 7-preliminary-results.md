@@ -1,12 +1,3 @@
-- still at data collection stage
-- defined genomic regions
-- extracted variants for all participants 
-	- number participants, number variants
-	- distributions of frequency
-- experimented with allele thresholds
-- adding functional annotation
 
-- learnt R, bash scripting skills for specific tools, batch job submission
-- navigating new environment
-- time taken for access
-- notoriously complex system - gel
+The nature of this project means that there are a number of intermediate results necessary to generate concrete findings. In the initial stages of this project - whilst waiting until late in the Autumn term for access to the data required - I conducted a thorough and intersectional literature survey to shape my aims and objectives, and understand the foundational cancer and genome biology needed to actively discern appropriate methodology.
+Since accessing the GEL dataset, I have gotten to grips with the research environment, defined near-coding BRCA genomic regions, extracted variants in these regions across all consenting GEL participants, experimented with allele frequency filtering, and begun to add functional variant-effect-predictor linked variant annotations. In addition, I have sharpened by computational skills in bash scripting and R.

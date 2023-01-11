@@ -57,3 +57,14 @@
 55. Davidson, A.E. et al. (2016) Autosomal-dominant corneal endothelial dystrophies CHED1 and PPCD1 are allelic disorders caused by non-coding mutations in the promoter of OVOL2. Am. J. Hum. Genet. 98, 75–89
 56. Cummings BB, Marshall JL, Tukiainen T, Lek M, Donkervoort S, Foley AR, et al. Improving genetic diagnosis in Mendelian disease with transcriptome sequencing. Sci Transl Med. 2017;9. https://doi.org/10.1126/scitr anslmed.aal5209.
 57. Weisschuh N, Buena‑Atienza E, Wissinger B. Splicing mutations in inherited retinal diseases. Prog Retin Eye Res. 2021;80:100874
+58. [How your data is used | Genomics England](https://www.genomicsengland.co.uk/patients-participants/data)
+59. [Additional findings | Genomics England](https://www.genomicsengland.co.uk/initiatives/100000-genomes-project/additional-findings)
+60. [Consultee-declaration-of-advice-regarding-adult-participant-withdrawal-information-–-for-consultees-withdrawal-6b-CM-22299-6b.pdf (genomicsengland.co.uk)](https://files.genomicsengland.co.uk/forms/Consultee-declaration-of-advice-regarding-adult-participant-withdrawal-information-%E2%80%93-for-consultees-withdrawal-6b-CM-22299-6b.pdf)
+61. WMA DECLARATION OF HELSINKI – ETHICAL PRINCIPLES FOR MEDICAL RESEARCH INVOLVING HUMAN SUBJECTS
+62. [GeCIP Rules (genomicsengland.co.uk)](https://files.genomicsengland.co.uk/documents/GeCIP-Rules_29-08-2018.pdf)
+63. crdg
+64. nik zainal group
+65. hr1
+66. hr2
+67. hr3
+68. divides opinion

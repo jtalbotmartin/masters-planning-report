@@ -37,7 +37,7 @@ The wealth of work done in this field has enabled the hypothesis generation in t
 These annotations I will utilise are as follows:
 - Combined Annotation–Dependent Depletion (CADD) Scores [28] - a measure of deleteriousness used to estimate variant pathogenicity.
 - PhyloP (Phylogenic P-values) [29]- a measure of evolutionary conservation at individual alignment sites [30], an inference measure of tolerance to mutation at a particular site.
-- SpliceAI [34] - a best-in-class [35] deep neural network for the prediction of splicing variants. {tells me}
+- SpliceAI [34] - a best-in-class [35] deep neural network for the prediction of splicing variants.
 - UTRannotator [31] - a plugin to Ensembl's variant effect predictor [33] tool, used to annotate upstream open reading frame-creating or disrupting 5'UTR variants [32].
 - Omni-PolyA [51] - a tool for poly(A) signal recognition, a key structure in the polyadenylation stage of RNA processing.
 - Data on RNA-Binding Proteins - key components in RNA regulation, forming interactions with UTRs  [52-54].
