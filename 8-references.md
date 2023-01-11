@@ -40,3 +40,8 @@
 38. Targeting DNA damage response pathways in cancer
 39. the cancer genome
 40. Patterns of somatic mutation in human cancer genomes
+41. Mutational Signatures: From Methods to Mechanisms
+42. Mutational Signatures in Breast Cancer: The Problem at the DNA Level
+43. Staaf, J. et al. Whole-genome sequencing of triple-negative breast cancers in a population-based clinical study. Nat. Med. 25, 1526–1533 (2019).
+44. Chopra, N. et al. Homologous recombination DNA repair deficiency and PARP inhibition activity in primary triple negative breast cancer. Nat. Commun. 11 , 2662 (2020).
+45. Kuchenbaecker KB, Hopper JL, Barnes DR and others. ‘[Risks of Breast, Ovarian, and Contralateral Breast Cancer for BRCA1 and BRCA2 Mutation Carriers](https://jamanetwork.com/journals/jama/fullarticle/2632503)‘. JAMA 2017: volume 317, issue 23, pages 2402-2416. doi: 10.1001/jama.2017.7112
