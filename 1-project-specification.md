@@ -1,28 +1,29 @@
+**The central hypothesis of this project is that pathogenic genetic variants in the near-coding regions of the BRCA1 and BRCA2 genes may be responsible for a proportion of unexplained breast cancer cases, in which BRCA-deficiency has been identified through mutational signature analysis as the causal mechanism of disease progression. Uncovering and interpreting these variants would enable familial screening to identify variant carriers and implement downstream clinical interventions, and could provide novel mechanistic insights into relevant disease biology.
+
+The following sections will articulate the biological background of this project, and clarify the aims and objectives of the work.
+
 ### project overview
-
 - BRCA1 and BRCA2 are tumour suppressor genes.[10,11] The proteins encoded by BRCA1 and BRCA2 have numerous roles in the maintenance of genomic integrity[8]. Of particular relevance, are the roles of these proteins in a biological pathway for the high-fidelity repair of DNA double strand breaks (DSBs) - a particularly cytotoxic class of genetic mutation, owing to it's propensity to modify genomic architecture via chromosomal rearrangements. [5,6,7, 9]
-- In the loss of functional BRCA proteins due to the biallelic inactivation of BRCA genes, this pathway of double-strand break repair - Homologous-Recombination HR-DSB - ceases to function correctly. {} 
-	- In healthy cells, this mechanism of HR-DSB - in which {overview of HR-DSB} - exists in a tandem with cNHEJ pathway {action} {properties} to repair breaks
-	- disrupting harmonious co-existence of complementary mechisms of double 
-- This leads to genomic instability {...e} caused by reliance on an unsuitable mechanism of DNA double-strand break repair in the place of HR.
-- Inheriting a pathogenic germline BRCA mutation confers a significant increase in the lifetime risk of breast cancer.
-	- one/hit effects
-	- second inactivation
-- Downstream, the consequences for the breakdown of this pathway are the development of cancer.
-- {tumorigenesis}
+- In the loss of functional BRCA proteins due to the biallelic inactivation of BRCA genes, this pathway of double-strand break repair - homologous recombination (HR, or HR-DSB) - ceases to function correctly.
+	- In healthy cells, this mechanism of HR-DSB - in which a homologous DNA molecule template is used for repair - exists in a complementary partnership with a distinct DSB pathway named non-homologous end joining (NHEJ) to maintain genomic integrity in the face of exogenous threats, and genomic stability during the DNA replication process. [37]
+	- Although used preferentially by cells when HR is not required, NHEJ has disruptive or toxic effects when utilised in scenarios for which it cannot correctly repair DNA lesions - leading to destabilising genomic alterations. The abrogation of BRCA1 or BRCA2 leads to the breakdown of HR, disrupting the complementary HR-NHEJ partnership needed to safely repair DSBs. This leads to the loss of genomic integrity due to the accumulation of lesions introduced by NHEJ, or other mutagenic DBS pathways. [38]
+	- For this reason, heterozygous germline BRCA variants are associated with significantly higher risk of cancer development - particularly breast and ovarian cancers. [{HRDetect 4 and 5}], in which tumorigenesis is initiated when the wild-type allele is lost [8].
+	- ...incidence in population
+	- ...incidence in BRCA carriers
 
 
-- In cancer development, uncontrolled growth caused by {} leads to tumour development.
+- Cancer development is driven by clonal proliferation, fuelled by 'driver' mutations. These mutations undergo positive selection to confer growth advantage, and thus are causally implicated in tumorigenesis [39,40]. 
+- uncontrolled growth caused by {} leads to tumour development.
 - As a cancer develops, it accumulates {} mutations that confer {drivers and non drivers, hallmarks etc..}. 
-- When cancers are caused by mutagenic processes such as the breakdown of HR, patterns {...} emerge across the collection of somatic mutations contained within the genome of the tumour - termed mutational signatures. By analysing a cancer's whole genome sequence, these patterns can be analysed, and signatures extracted, giving insights about the underlying mutagenic process that gave rise to the cancer regardless of whether a causal mutation has been discovered.
-- Understanding the underlying mutagenic process driving the development of a cancer can have powerful implications for optimal treatment of a patient. Thus, gleaning these insights of underlying processes driving cancer development from mutational signature analysis is able to guide clinical decisions, and improve patient outcomes. {PARP inhibitors}
+- When cancers are caused by mutagenic processes such as the breakdown of HR, patterns of base substitution, indel, rearrangement and copy number mutations emerge across the collection of somatic mutations contained within the genome of the tumour - termed mutational signatures. By analysing a cancer's whole genome sequence, these patterns can be analysed, and signatures extracted, giving insights about the underlying mutagenic process that gave rise to the cancer regardless of whether a causal mutation has been discovered.
+- Understanding the underlying mutagenic process driving the development of a cancer can have powerful implications for optimal treatment of a patient. Thus, gleaning these insights of underlying processes driving cancer development from mutational signature analysis is able to guide clinical decisions, and improve patient outcomes. {PARP inhibitors - selective cell death by putting more pressure on HR}
 
-- However, although mutational signatures can empower clinical decisions regardless of whether a causal mutation has been found, genetic diagnoses are still of vast significance. These diagnoses enable screening in a patient's family members, making it possible for them to understand their own risk of disease, and facilitating the implementation of preventative clinical interventions. In addition, genetic diagnoses can contain novel insights into disease biology, with downstream implications for future interpretation and treatment of a disease.
+- Although mutational signatures can empower clinical decisions regardless of whether a causal mutation has been found, genetic diagnoses are still of vast significance. These diagnoses enable screening in a patient's family members, making it possible for them to understand their own risk of disease, and facilitating the implementation of preventative clinical interventions. In addition, genetic diagnoses can contain novel insights into disease biology, with downstream implications for future interpretation and treatment of a disease.
 - {introduction to expanding field of variant searching / demonstrations of significant impact of non-coding regions, utilising this methodology in the project}
 
 
 ### research question
-- In 2017, HRDetect was developed [1]. HRDetect is a highly sensitive mutational signature analysis algorithm, designed to classify tumours as being caused by BRCA-deficiency - or, a breakdown in HR-DSB caused by BRCA-deficiency - on the basis of the whole genome sequence of the cancer.
+- In 2017, HRDetect was developed [1]. HRDetect is a highly sensitive mutational signature analysis algorithm, designed to classify tumours as being caused by BRCA-deficiency - or, the breakdown in HR-DSB caused by BRCA-deficiency - on the basis of the whole genome sequence of the cancer.
 - The results of a study applying this algorithm to a cohort of 560 cancer patients yielded surprising results: 
 - Previous to this study, BRCA-deficiency was thought to account for 1-5% of breast cancer cases, based on rates of genetic attribution to germline mutations in these genes [1-3 HRPaper]. However, HRDetect found this value to significantly greater, with the proportion of breast cancers caused by BRCA-deficiency to up to 22%, based on the proportions of patients displaying an algorithmic score suggesting BRCA-deficiency as a causal cancer development mechanism.
 - Furthermore, a particularly interesting result is that in 41/124 (33%) of these BRCA-deficient cases, BRCA inactivation could not be elucidated through genetic and/or epigenetic analysis.

@@ -33,3 +33,10 @@
 31. Annotating high-impact 5′untranslated region variants with the UTRannotator
 32. Calvo,S.E. et al. (2009) Upstream open reading frames cause widespread reduction of protein expression and are polymorphic among humans. Proc. Natl. Acad. Sci. USA, 106, 7507–7512.
 33. McLaren,W. et al. (2016) The Ensembl variant effect predictor. Genome Biol., 17, 122.
+34. Jaganathan, S. K., Panagiotopoulou, S. K., McRae, J. F., Darbandi, S. F., Knowles, D., Li, Y. I., et al. (2019). Predicting splicing from primary sequence with deep learning. Cell 176, 535.e24–548.e24. doi: 10.1016/j.cell.2018.12.015
+35. Rowlands, C., Thomas, H., Lord, J., Wai, H., Arno, G., Beaman, B., et al. (2021a). Comparison of in silico strategies to prioritize rare genomic variants impacting RNA splicing for the diagnosis of genomic disorders. ResearchSquare. doi: 10.21203/rs.3.rs-311579/v1
+36. Rowlands, C. F., Baralle, D., and Ellingford, J. M. (2019). Machine learning approaches for the prioritization of genomic variants impacting pre-mRNA splicing. Cell 8:1513. doi: 10.3390/cells8121513
+37. DNA double-strand break repair-pathway choice in somatic mammalian cells
+38. Targeting DNA damage response pathways in cancer
+39. the cancer genome
+40. Patterns of somatic mutation in human cancer genomes

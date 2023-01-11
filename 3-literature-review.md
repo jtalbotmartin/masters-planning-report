@@ -32,12 +32,12 @@ The wealth of work done in this field has enabled the hypothesis generation in t
 - the tools I will use for variant annotation and analysis (described below)
 - the regions of BRCA defined within the scope of my search for novel mechanisms of BRCA-deficiency - defining a set of near-coding regulatory regions comprising of 5' and 3' UTRs, Promoter and Intronic regions.
 
-In this instance, the regions of BRCA in which I will analyse are chosen in light of the annotations available, in order to interpret the findings I will generate. These annotations I will utilise are as follows:
+In this instance, the regions of BRCA in which I will analyse are chosen in light of the most informative and highest quality annotations available, in order to generate and robustly interpret findings that may be of relevance. These annotations I will utilise are as follows:
 - Combined Annotation–Dependent Depletion (CADD) Scores [28] - a measure of deleteriousness used to estimate variant pathogenicity.
 - PhyloP (Phylogenic P-values) [29]- a measure of evolutionary conservation at individual alignment sites [30] {tells me}
-- SpliceAI
-- UTRannotator [31] - a plugin to Ensembl's variant effect preductor [33] tool to annotate upstream open reading frame-creating or disrupting 5'UTR variants [32] {these variants are}
-- PolyA Signals
+- SpliceAI [34] - a best-in-class [35] deep neural network for the prediction of splicing variants. {tells me}
+- UTRannotator [31] - a plugin to Ensembl's variant effect predictor [33] tool, used to annotate upstream open reading frame-creating or disrupting 5'UTR variants [32] {these variants are}
+- RNA Binding and PolyA Signals Data
 
 - extrapolate mechanisms 
 **Regions**
@@ -61,21 +61,3 @@ captionL taken from [21]
 
 In recent years ... {}
 Figure 1 gives an overview of these functional 
-...
-
-- Overview
-	- 50% 
-	- non-coding regions
-	- recent expansion of non-coding
-- key studies
-	- LoF
-	- MEF2C
-	- Neurodevelopment disorders
-- interpretation - clinical interpretation
-- annotations
-	- SpliceAI
-	- PhyloP
-	- CADD
-	- UTRannotator
-	- RNA Binding Protein
-	- PolyA Signals
