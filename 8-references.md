@@ -45,3 +45,15 @@
 43. Staaf, J. et al. Whole-genome sequencing of triple-negative breast cancers in a population-based clinical study. Nat. Med. 25, 1526–1533 (2019).
 44. Chopra, N. et al. Homologous recombination DNA repair deficiency and PARP inhibition activity in primary triple negative breast cancer. Nat. Commun. 11 , 2662 (2020).
 45. Kuchenbaecker KB, Hopper JL, Barnes DR and others. ‘[Risks of Breast, Ovarian, and Contralateral Breast Cancer for BRCA1 and BRCA2 Mutation Carriers](https://jamanetwork.com/journals/jama/fullarticle/2632503)‘. JAMA 2017: volume 317, issue 23, pages 2402-2416. doi: 10.1001/jama.2017.7112
+46. Mutational Processes Molding the Genomes of 21 Breast Cancers
+47. Landscape of somatic mutations in 560 breast cancer whole-genome sequences
+48. COSMIC: the Catalogue Of Somatic Mutations In Cancer
+49. Systematic identification of disease-causing UTR and promoter region variants in individuals with rare disease
+50. Steri, M. et al. (2018) Genetic variants in mRNA untranslated regions. Wiley Interdiscip. Rev. RNA 9, e1474
+51. Omni-PolyA: a method and tool for accurate recognition of Poly(A) signals in human genomic DNA
+52. A large-scale binding and functional map of human RNA-binding proteins
+53. RNA-binding proteins in human genetic disease
+54. A census of human RNA-binding proteins
+55. Davidson, A.E. et al. (2016) Autosomal-dominant corneal endothelial dystrophies CHED1 and PPCD1 are allelic disorders caused by non-coding mutations in the promoter of OVOL2. Am. J. Hum. Genet. 98, 75–89
+56. Cummings BB, Marshall JL, Tukiainen T, Lek M, Donkervoort S, Foley AR, et al. Improving genetic diagnosis in Mendelian disease with transcriptome sequencing. Sci Transl Med. 2017;9. https://doi.org/10.1126/scitr anslmed.aal5209.
+57. Weisschuh N, Buena‑Atienza E, Wissinger B. Splicing mutations in inherited retinal diseases. Prog Retin Eye Res. 2021;80:100874
